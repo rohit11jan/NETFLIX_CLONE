@@ -1,2 +1,3 @@
 # NETFLIX_CLONE
-i have cloned here in this project the netflix using html css and javascript and it running appropriately.
+I have cloned here in this project the Netflix using html css and javascript and it running appropriately.<br>
+authored by Rohit tiwari
